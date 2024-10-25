@@ -1,0 +1,1 @@
+Arquivo do projeto pizzaria que foi disponibilizado na atividade da semana anterior, que será utilizado para aplicar os princípios SOLID.
